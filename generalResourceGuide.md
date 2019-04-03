@@ -1,6 +1,6 @@
 # Doing Text Analysis with R - Some General Resources
 
-This is a list of general resources concerning text analysis and/or R. It is intended as a supplement to the Text Analysis with R workshops offered at Purdue University through the Tinkering Humanist series at Purdue Libraries and School of Information Studies. Commentary and resources for each session, along with relevant code, [can be found here](~/index.html).
+This is a list of general resources concerning text analysis and/or R. It is intended as a supplement to the Text Analysis with R workshops offered at Purdue University through the Tinkering Humanist series at Purdue Libraries and School of Information Studies. Commentary and resources for each session, along with relevant code, [can be found here](index.html).
 
 ### Books on Text Analysis and R
 

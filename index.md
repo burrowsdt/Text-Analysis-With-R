@@ -6,15 +6,15 @@ This repository is intended to supplement the "Text Analysis with R" workshops o
 
 ## Workshop Materials
 
-### Text Analysis with R - [Code/Data (All Sessions)](), [General Resource Guide](~/generalResourceGuide.html)
+### Text Analysis with R - [Code/Data (All Sessions)](), [General Resource Guide](generalResourceGuide.html)
 The zip file linked above includes all of the code and data for all three sessions in the series, and the resource list is a more general collection of links concerning text analysis and R. For detailed comments and links concerning each session's topic, see below.
 
-**Session I: Introduction - [Code/Data](~/sessionOneFiles.zip)**
+**Session I: Introduction - [Code/Data](/data/sessionOneFiles.zip)**
 
 
 In Session I, we discussed some of the basic steps that go into any text analysis project, explored why cleaning and preprocessing data is important, and performed some basic word frequency calculations. Most of the code included for this session was adapted from Chapters 2 and 3 of Matthew Jockers' [*Text Analysis with R for Students of Literature*](https://purdue-primo-prod.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=PURDUE_ALMA51683474750001081&context=L&vid=PURDUE&search_scope=everything&tab=default_tab&lang=en_US). As we noted, however, there are many ways to accomplish these tasks. You might compare Jockers' steps to those of [*Text Mining with R*](https://purdue-primo-prod.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=PURDUE_ALMA51719072750001081&context=L&vid=PURDUE&search_scope=everything&tab=default_tab&lang=en_US) by Julia Silge and David Robinson, which uses a "tidy" approach to the basics of text analysis. The tutorial ["Basic Text Processing in R"](https://programminghistorian.org/en/lessons/basic-text-processing-in-r) by Taylor Arnold and Lauren Tilton covers similar ground, or consult their book [*Humanities Data in R*](https://purdue-primo-prod.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=PURDUE_ALMA51719072750001081&context=L&vid=PURDUE&search_scope=everything&tab=default_tab&lang=en_US) . All of the books above are available as e-books through Purdue Libraries.
 
-**Session II: Sentiment Analysis and Syuzhet - [Code/Data](~/sessionTwoFiles.zip)**
+**Session II: Sentiment Analysis and Syuzhet - [Code/Data](/data/sessionTwoFiles.zip)**
 
 
 In Session II, we explored sentiment analysis using Jockers' R package `syuzhet`. It is always good to consult the documentation for a package to understand its functions, what arguments they take, etc. The documentation for `syuzhet` is [here](https://www.rdocumentation.org/packages/syuzhet/versions/1.0.4). Much of the code for the session was adapted from the package's vignette, where Jockers some of the more technical aspects of the package and walks through several functions we did not cover. When it was created, `syuzhet` received a lot of interest and criticism, much of which is worthy of careful reading. Check out Jockers [own blog posts](http://www.matthewjockers.net//?s=syuzhet&search=Go) on the package, and [a literature professor's critiques](https://annieswafford.wordpress.com/syuzhet-blog-posts/).
