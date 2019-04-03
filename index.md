@@ -2,12 +2,12 @@
 # Supplementary Materials for the Tinkering Humanist Series and Related Workshops
 
 
-This repository is intended to supplement the "Text Analysis with R" workshops offered through the Tinkering Humanist workshop series at Purdue University Libraries and School of Information Studies. In addition to the code and datasets used for different sessions, you'll find information about additional resources to help you get started with a given method or application. 
+This repository is intended to supplement the "Text Analysis with R" workshops offered through the Tinkering Humanist workshop series at Purdue University Libraries and School of Information Studies. In addition to the code and texts/data used for different sessions, you'll find information about additional resources to help you get started with a given method or application. 
 
 ## Workshop Materials
 
-### Text Analysis with R - [Code/Data (All Sessions)](), [General Resource Guide](generalResourceGuide.html)
-The zip file linked above includes all of the code and data for all three sessions in the series, and the resource list is a more general collection of links concerning text analysis and R. For detailed comments and links concerning each session's topic, see below.
+### [Code/Data (All Sessions)](), [General Resource Guide](generalResourceGuide.html)
+The zip file linked above includes all of the code and data for all three sessions in the series, and the resource list is a more general collection of links concerning text analysis and R. For detailed comments and links concerning each session's topic, as well as for the code and files for particular sessions only, see below.
 
 **Session I: Introduction - [Code/Data](/data/sessionOneFiles.zip)**
 
